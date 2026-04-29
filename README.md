@@ -22,6 +22,9 @@ Pastikan sudah install:
 
 ---
 
+## Dataset Yang Digunakan 
+https://www.kaggle.com/code/yumnammomojit/visually-similar-product-recommendation
+
 ## 🚀 Cara Setup & Menjalankan
 
 ### 1. Clone Repository
